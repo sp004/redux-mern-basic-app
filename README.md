@@ -1,1 +1,1 @@
-# redux-mern-basic-app-
+# redux-mern-basic-app
